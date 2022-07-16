@@ -1,0 +1,7 @@
+a) T (n) = Θ(n^log 3 base 2) (Case 1)
+b) NA (f (n) is not positive)
+c) NA
+d)T (n) = Θ(n log n) (Case 2)
+e)T (n) = Θ(n2) (Case 3)
+
+
